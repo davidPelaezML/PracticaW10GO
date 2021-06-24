@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Prueba error usuario B
+=======
+Vamos a aprender Java!
+>>>>>>> ddcfc096ab3b05b9b88df8fb0c2982c71b8358bc
